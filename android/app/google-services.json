@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19429621277",
+    "project_id": "icms-35ee0",
+    "storage_bucket": "icms-35ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19429621277:android:fd03426c3b8b63cbe990f4",
+        "android_client_info": {
+          "package_name": "com.icms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjty6gsYbLbcBVeSrAabH4DgO23yvO2ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
